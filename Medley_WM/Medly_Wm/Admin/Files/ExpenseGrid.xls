@@ -1,0 +1,19 @@
+<div id="div2" class="table-responsive panel-grid-left">
+
+                                            <div>
+	<table class="table table-striped pos-table" cellspacing="0" rules="all" padding="0" spacing="0" border="0" border="1" id="gridledger" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Payment Entry ID</th><th scope="col">Date</th><th scope="col">Ledger Name</th><th scope="col">Description</th><th scope="col">Amount</th><th scope="col">Delete</th>
+		</tr><tr>
+			<td>4032</td><td>21-Dec-2022</td><td>Salary </td><td>asd</td><td>10,000.00</td><td>
+                                                            <a id="gridledger_ctl02_lnkbtn" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;gridledger$ctl02$lnkbtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+                                                                <button type="button" class="btn btn-danger btn-md">
+                                                                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                                                                </button>
+                                                            </a>
+                                                            
+                                                        </td>
+		</tr>
+	</table>
+</div>
+                                        </div>

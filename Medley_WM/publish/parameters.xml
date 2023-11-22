@@ -1,0 +1,9 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Udhayan" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Working\ Projects\\Medley_WM\\Medley_WM\\Medley_WM\\Medley_WM\\Medly_Wm\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\Working\ Projects\\Medley_WM\\Medley_WM\\Medley_WM\\Medley_WM\\Medly_Wm\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="server-Web.config Connection String" description="server Connection String used in web.config by the application to access the database." defaultValue="Server=server;Database=Medly_Warehouse;uid=sa;password=P@ss123;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Working\ Projects\\Medley_WM\\Medley_WM\\Medley_WM\\Medley_WM\\Medly_Wm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='server']/@connectionString" />
+  </parameter>
+</parameters>

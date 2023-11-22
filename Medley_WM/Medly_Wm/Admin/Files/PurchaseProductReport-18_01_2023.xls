@@ -1,0 +1,19 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<caption>
+			 Sales Return Report  Generated on 1/18/2023 10:54:37 AM
+		</caption><tr style="background-color:BurlyWood;">
+			<th scope="col">Item</th><th scope="col">Category</th><th scope="col">Bill NO</th><th scope="col">Bill Date</th><th scope="col">Customer Name</th><th scope="col">Brand Name</th><th scope="col">Quantity</th><th scope="col">Unit Price</th><th scope="col">Payment Type</th><th scope="col"> Total Amount</th><th scope="col"> Total Reasons</th>
+		</tr><tr>
+			<td>ASOKA HALWA</td><td>HALWA</td><td>5</td><td>1/17/2023 12:00:00 AM</td><td>Aijth</td><td>brand</td><td>2</td><td>380.9500</td><td>0</td><td>761.9</td><td>Date Bar</td>
+		</tr><tr>
+			<td>dry jamun</td><td>BENGALI SWEETS</td><td>4</td><td>1/14/2023 12:00:00 AM</td><td>Rosy</td><td>brand</td><td>3</td><td>380.9500</td><td>0</td><td>1142.85</td><td>Stock (+) (-)</td>
+		</tr><tr>
+			<td>BIG MIXTURE</td><td>MIXTURE</td><td>4</td><td>1/14/2023 12:00:00 AM</td><td>Rosy</td><td>brand</td><td>2</td><td>214.2900</td><td>0</td><td>428.58</td><td>Stock (+) (-)</td>
+		</tr><tr>
+			<td>PANEER MOMOS</td><td>MOMOS</td><td>1</td><td>1/10/2023 12:00:00 AM</td><td>gopi</td><td>brand</td><td>3</td><td>76.1900</td><td>0</td><td>228.57</td><td>Wrong Grn</td>
+		</tr><tr>
+			<td>CORN&amp;CHEESE MOMOS</td><td>MOMOS</td><td>1</td><td>1/10/2023 12:00:00 AM</td><td>gopi</td><td>brand</td><td>2</td><td>85.7100</td><td>0</td><td>171.42</td><td>Wrong Grn</td>
+		</tr>
+	</table>
+</div>

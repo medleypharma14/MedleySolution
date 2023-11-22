@@ -1,0 +1,111 @@
+<div id="div1" class="table-responsive panel-grid-left">
+                                      
+                                                    <span id="lblError" style="color:Red;"></span>
+                                                    <div>
+	<table class="table table-striped pos-table" cellspacing="0" rules="all" padding="0" spacing="0" border="0" border="1" id="gvCustsales" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Branch</th><th align="center" scope="col">BillNo.</th><th scope="col">Bill Date</th><th scope="col">Tax</th><th scope="col">Sales Type</th><th scope="col">Bill Type</th><th scope="col">Net-Amount</th><th scope="col">Discount-Amount</th><th scope="col">Total Amount</th><th scope="col">Cancelled By</th>
+		</tr><tr>
+			<td>TSRLF</td><td align="left" style="width:30%;">
+                                                                    <a href="javascript:switchViews('dv27', 'imdiv27');"
+                                                                        style="text-decoration: none;">
+                                                                        <img id="imdiv27" alt="Show" border="0" src="../images/plus.gif" />
+                                                                    </a>
+                                                                    27
+                                                                    <div id="dv27" style="display: none; position: relative;">
+                                                                        <div>
+				<table class="mGrid" cellspacing="0" rules="all" border="1" id="gvCustsales_ctl02_gvLiaLedger" style="border-collapse:collapse;">
+					<tr>
+						<th scope="col">Product</th><th scope="col">Qty</th><th scope="col">UnitPrice</th><th scope="col">Total Amount</th><th scope="col">Sales Type</th>
+					</tr><tr>
+						<td>CUTLET CHANNA</td><td>1</td><td>47.62</td><td>47.62</td><td>Online</td>
+					</tr><tr>
+						<td>BREAD CHANNA</td><td>1</td><td>42.86</td><td>42.86</td><td>Online</td>
+					</tr><tr>
+						<td>cooldrinks-10</td><td>1</td><td>10.00</td><td>10.00</td><td>Online</td>
+					</tr><tr>
+						<td>bhadam badusa</td><td>1</td><td>761.90</td><td>761.90</td><td>Online</td>
+					</tr><tr>
+						<td>CHAPATI</td><td>1</td><td>47.17</td><td>47.17</td><td>Online</td>
+					</tr><tr>
+						<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+                                                                    </div>
+                                                                </td><td>02/Dec/2022 05:57:00 PM</td><td>45.45</td><td>Online</td><td>Sales</td><td>909.55</td><td>0.00</td><td>955.00</td><td>8807034908</td>
+		</tr><tr>
+			<td>TSRLF</td><td align="left" style="width:30%;">
+                                                                    <a href="javascript:switchViews('dv526', 'imdiv526');"
+                                                                        style="text-decoration: none;">
+                                                                        <img id="imdiv526" alt="Show" border="0" src="../images/plus.gif" />
+                                                                    </a>
+                                                                    526
+                                                                    <div id="dv526" style="display: none; position: relative;">
+                                                                        <div>
+				<table class="mGrid" cellspacing="0" rules="all" border="1" id="gvCustsales_ctl03_gvLiaLedger" style="border-collapse:collapse;">
+					<tr>
+						<th scope="col">Product</th><th scope="col">Qty</th><th scope="col">UnitPrice</th><th scope="col">Total Amount</th><th scope="col">Sales Type</th>
+					</tr><tr>
+						<td>CREAM CAKE</td><td>10</td><td>12.71</td><td>127.10</td><td>Cash</td>
+					</tr><tr>
+						<td>CHOCOLATE CAKE</td><td>10</td><td>16.95</td><td>169.50</td><td>Cash</td>
+					</tr><tr>
+						<td>WONDER CAKE</td><td>10</td><td>42.37</td><td>423.70</td><td>Cash</td>
+					</tr><tr>
+						<td>CUP CAKE</td><td>10</td><td>10.59</td><td>105.90</td><td>Cash</td>
+					</tr><tr>
+						<td>PUDDING CAKE</td><td>10</td><td>12.71</td><td>127.10</td><td>Cash</td>
+					</tr><tr>
+						<td>PLUM CAKE</td><td>10</td><td>12.71</td><td>127.10</td><td>Cash</td>
+					</tr><tr>
+						<td>maendeleo</td><td>10</td><td>12.00</td><td>120.00</td><td>Cash</td>
+					</tr><tr>
+						<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+                                                                    </div>
+                                                                </td><td>02/Dec/2022 11:28:00 AM</td><td>194.47</td><td>Cash</td><td>Sales</td><td>1200.40</td><td>0.00</td><td>1395.00</td><td>8807034908</td>
+		</tr><tr>
+			<td>TSRLF</td><td align="left" style="width:30%;">
+                                                                    <a href="javascript:switchViews('dv516', 'imdiv516');"
+                                                                        style="text-decoration: none;">
+                                                                        <img id="imdiv516" alt="Show" border="0" src="../images/plus.gif" />
+                                                                    </a>
+                                                                    516
+                                                                    <div id="dv516" style="display: none; position: relative;">
+                                                                        <div>
+				<table class="mGrid" cellspacing="0" rules="all" border="1" id="gvCustsales_ctl04_gvLiaLedger" style="border-collapse:collapse;">
+					<tr>
+						<th scope="col">Product</th><th scope="col">Qty</th><th scope="col">UnitPrice</th><th scope="col">Total Amount</th><th scope="col">Sales Type</th>
+					</tr><tr>
+						<td>JANGIRI</td><td>101</td><td>228.57</td><td>23085.57</td><td>Gpay</td>
+					</tr><tr>
+						<td>MINI JANGIRI</td><td>151</td><td>247.62</td><td>37390.62</td><td>Gpay</td>
+					</tr><tr>
+						<td>KARUPATTI JANGIRI</td><td>151</td><td>380.95</td><td>57523.45</td><td>Gpay</td>
+					</tr><tr>
+						<td>JILAEBI</td><td>151</td><td>228.57</td><td>34514.07</td><td>Gpay</td>
+					</tr><tr>
+						<td>green jangiri</td><td>101</td><td>500.00</td><td>50500.00</td><td>Gpay</td>
+					</tr><tr>
+						<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					</tr>
+				</table>
+			</div>
+                                                                    </div>
+                                                                </td><td>01/Dec/2022 11:05:00 AM</td><td>19704.91</td><td>Gpay</td><td>Sales</td><td>203013.71</td><td>0.00</td><td>222719.00</td><td>8807034908</td>
+		</tr><tr>
+			<td align="left">&nbsp;</td><td align="right">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td align="center">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+                                               
+                                                    Total Net amount:<label id="lblTotal">205123.66</label>
+                                                <br />
+                                                    Total Disc amount:<label id="disc">0.00</label>
+                                              <br />
+                                                    Total amount:<label id="gndtotal">225069.00</label>
+                                               
+                                    </div>

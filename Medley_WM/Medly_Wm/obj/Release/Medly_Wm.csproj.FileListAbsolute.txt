@@ -1,0 +1,317 @@
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Medly_Wm.dll.config
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Medly_Wm.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Medly_Wm.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csc.exe
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csc.rsp
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csi.exe
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\csi.rsp
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\vbc.exe
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\BusinessLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\CommonLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\DataLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\WebGrease.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\BusinessLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\CommonLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\DataLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\obj\Release\Medly_Wm.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\Medly_Wm\obj\Release\Medly_Wm.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Medly_Wm.dll.config
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Medly_Wm.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Medly_Wm.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csc.exe
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csc.exe.config
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csc.rsp
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csi.exe
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csi.exe.config
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\csi.rsp
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.AppContext.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Collections.Immutable.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Console.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Globalization.Calendars.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Net.Http.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Net.Sockets.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Reflection.Metadata.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.ValueTuple.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\vbc.exe
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\vbc.exe.config
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\vbc.rsp
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe.config
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Antlr3.Runtime.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\AspNet.ScriptManager.jQuery.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\BusinessLayer.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\CommonLayer.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\DataLayer.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.Web.Infrastructure.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Newtonsoft.Json.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\System.Web.Optimization.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\WebGrease.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\BusinessLayer.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\CommonLayer.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\DataLayer.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\System.Web.Optimization.xml
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Newtonsoft.Json.xml
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Antlr3.Runtime.pdb
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Medley_Wh\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Medley_Wh\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.AssemblyReference.cache
+F:\Medley_Wh\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CoreCompileInputs.cache
+F:\Medley_Wh\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CopyComplete
+F:\Medley_Wh\BigMedical\Medly_Wm\obj\Release\Medly_Wm.dll
+F:\Medley_Wh\BigMedical\Medly_Wm\obj\Release\Medly_Wm.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\Medly_Wm.dll.config
+F:\Projects\BigMedical\Medly_Wm\bin\Medly_Wm.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Medly_Wm.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csc.exe
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csc.exe.config
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csc.rsp
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csi.exe
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csi.exe.config
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\csi.rsp
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.AppContext.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Console.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Globalization.Calendars.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Net.Http.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Net.Sockets.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.ValueTuple.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\vbc.exe
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\vbc.exe.config
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\vbc.rsp
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe
+F:\Projects\BigMedical\Medly_Wm\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\BigMedical\Medly_Wm\bin\Antlr3.Runtime.dll
+F:\Projects\BigMedical\Medly_Wm\bin\AspNet.ScriptManager.jQuery.dll
+F:\Projects\BigMedical\Medly_Wm\bin\BusinessLayer.dll
+F:\Projects\BigMedical\Medly_Wm\bin\CommonLayer.dll
+F:\Projects\BigMedical\Medly_Wm\bin\DataLayer.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\BigMedical\Medly_Wm\bin\Newtonsoft.Json.dll
+F:\Projects\BigMedical\Medly_Wm\bin\System.Web.Optimization.dll
+F:\Projects\BigMedical\Medly_Wm\bin\WebGrease.dll
+F:\Projects\BigMedical\Medly_Wm\bin\BusinessLayer.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\CommonLayer.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\DataLayer.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\System.Web.Optimization.xml
+F:\Projects\BigMedical\Medly_Wm\bin\Newtonsoft.Json.xml
+F:\Projects\BigMedical\Medly_Wm\bin\Antlr3.Runtime.pdb
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Projects\BigMedical\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.AssemblyReference.cache
+F:\Projects\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CoreCompileInputs.cache
+F:\Projects\BigMedical\Medly_Wm\obj\Release\Medly_Wm.csproj.CopyComplete
+F:\Projects\BigMedical\Medly_Wm\obj\Release\Medly_Wm.dll
+F:\Projects\BigMedical\Medly_Wm\obj\Release\Medly_Wm.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Medly_Wm.dll.config
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Medly_Wm.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Medly_Wm.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csc.exe
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csc.exe.config
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csc.rsp
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csi.exe
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csi.exe.config
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\csi.rsp
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.AppContext.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Collections.Immutable.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Console.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Globalization.Calendars.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.IO.Compression.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.IO.FileSystem.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Net.Http.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Net.Sockets.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Reflection.Metadata.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.ValueTuple.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Xml.XPath.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\vbc.exe
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\vbc.exe.config
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\vbc.rsp
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\VBCSCompiler.exe
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\roslyn\VBCSCompiler.exe.config
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Antlr3.Runtime.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\AspNet.ScriptManager.jQuery.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\BusinessLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\CommonLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\DataLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.Web.Infrastructure.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Newtonsoft.Json.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\System.Web.Optimization.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\WebGrease.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\BusinessLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\CommonLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\DataLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\System.Web.Optimization.xml
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Newtonsoft.Json.xml
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Antlr3.Runtime.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\obj\Release\Medly_Wm.csproj.AssemblyReference.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\obj\Release\Medly_Wm.csproj.CoreCompileInputs.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\obj\Release\Medly_Wm.csproj.CopyComplete
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\obj\Release\Medly_Wm.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\obj\Release\Medly_Wm.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\Medly_Wm\bin\AjaxControlToolkit.dll

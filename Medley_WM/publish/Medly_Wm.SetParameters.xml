@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Udhayan" />
+  <setParameter name="server-Web.config Connection String" value="Server=server;Database=Medly_Warehouse;uid=sa;password=P@ss123;" />
+</parameters>

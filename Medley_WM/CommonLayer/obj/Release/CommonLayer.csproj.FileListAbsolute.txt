@@ -1,0 +1,18 @@
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\bin\Release\CommonLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\bin\Release\CommonLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\obj\Release\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\obj\Release\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\obj\Release\CommonLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\CommonLayer\obj\Release\CommonLayer.pdb
+F:\Medley_Wh\BigMedical\CommonLayer\bin\Release\CommonLayer.dll
+F:\Medley_Wh\BigMedical\CommonLayer\bin\Release\CommonLayer.pdb
+F:\Medley_Wh\BigMedical\CommonLayer\obj\Release\CommonLayer.csproj.AssemblyReference.cache
+F:\Medley_Wh\BigMedical\CommonLayer\obj\Release\CommonLayer.csproj.CoreCompileInputs.cache
+F:\Medley_Wh\BigMedical\CommonLayer\obj\Release\CommonLayer.dll
+F:\Medley_Wh\BigMedical\CommonLayer\obj\Release\CommonLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\bin\Release\CommonLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\bin\Release\CommonLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\obj\Release\CommonLayer.csproj.AssemblyReference.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\obj\Release\CommonLayer.csproj.CoreCompileInputs.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\obj\Release\CommonLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\CommonLayer\obj\Release\CommonLayer.pdb

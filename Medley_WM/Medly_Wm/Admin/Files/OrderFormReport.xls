@@ -1,0 +1,7 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<caption>
+		Sales Order Report From 2022-12-20 To 2022-12-20 For payment Mode :All as on 20/12/2022
+	</caption><tr style="color:Black;background-color:LightSkyBlue;border-color:RoyalBlue;font-weight:bold;">
+		<td>Branch</td><td>CustomerName</td><td>BillNo</td><td>BillDate</td><td>Tax</td><td>NetAmount</td><td>taxamount</td><td>Payamount</td><td>Total</td><td>type</td><td>SalesType</td><td>Paytype</td><td>BookNo</td><td>OrderTime</td>
+	</tr>
+</table>

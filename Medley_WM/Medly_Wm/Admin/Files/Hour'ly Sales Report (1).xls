@@ -1,0 +1,65 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr style="color:Black;background-color:LightSkyBlue;border-color:RoyalBlue;font-weight:bold;">
+		<td>Time</td><td>Sales-Total</td><td>Order-Total</td><td>Total-Amount</td>
+	</tr><tr>
+		<td>8.00 AM-9.00 AM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>9.00 AM-10.00 AM</td><td>266</td><td>700</td><td>966</td>
+	</tr><tr>
+		<td>10.00 AM-11.00 AM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>11.00 AM-12.00 PM</td><td>200</td><td>0</td><td>200.01</td>
+	</tr><tr>
+		<td>12.00 PM-1.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>1.00 PM-2.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>2.00 PM-3.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>3.00 PM-4.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>4.00 PM-5.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>5.00 PM-6.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>6.00 PM-7.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>7.00 PM-8.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>8.00 PM-9.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>9.00 PM-10.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>10.00 PM-11.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>8.00 AM-9.00 AM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>9.00 AM-10.00 AM</td><td>266</td><td>700</td><td>966</td>
+	</tr><tr>
+		<td>10.00 AM-11.00 AM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>11.00 AM-12.00 PM</td><td>200</td><td>0</td><td>200.01</td>
+	</tr><tr>
+		<td>12.00 PM-1.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>1.00 PM-2.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>2.00 PM-3.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>3.00 PM-4.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>4.00 PM-5.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>5.00 PM-6.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>6.00 PM-7.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>7.00 PM-8.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>8.00 PM-9.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>9.00 PM-10.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>10.00 PM-11.00 PM</td><td>0</td><td>0</td><td>0</td>
+	</tr>
+</table>

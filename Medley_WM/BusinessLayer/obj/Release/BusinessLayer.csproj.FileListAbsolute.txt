@@ -1,0 +1,44 @@
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\CommonLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\DataLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\CommonLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\bin\Release\DataLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\BusinessLayer\obj\Release\BusinessLayer.pdb
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\BusinessLayer.dll
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\BusinessLayer.pdb
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\CommonLayer.dll
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\DataLayer.dll
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\CommonLayer.pdb
+F:\Medley_Wh\BigMedical\BusinessLayer\bin\Release\DataLayer.pdb
+F:\Medley_Wh\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+F:\Medley_Wh\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Medley_Wh\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+F:\Medley_Wh\BigMedical\BusinessLayer\obj\Release\BusinessLayer.dll
+F:\Medley_Wh\BigMedical\BusinessLayer\obj\Release\BusinessLayer.pdb
+F:\Projects\BigMedical\BusinessLayer\bin\Release\BusinessLayer.dll
+F:\Projects\BigMedical\BusinessLayer\bin\Release\BusinessLayer.pdb
+F:\Projects\BigMedical\BusinessLayer\bin\Release\CommonLayer.dll
+F:\Projects\BigMedical\BusinessLayer\bin\Release\DataLayer.dll
+F:\Projects\BigMedical\BusinessLayer\bin\Release\CommonLayer.pdb
+F:\Projects\BigMedical\BusinessLayer\bin\Release\DataLayer.pdb
+F:\Projects\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+F:\Projects\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Projects\BigMedical\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+F:\Projects\BigMedical\BusinessLayer\obj\Release\BusinessLayer.dll
+F:\Projects\BigMedical\BusinessLayer\obj\Release\BusinessLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\BusinessLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\BusinessLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\CommonLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\DataLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\CommonLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\bin\Release\DataLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\obj\Release\BusinessLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\BusinessLayer\obj\Release\BusinessLayer.pdb

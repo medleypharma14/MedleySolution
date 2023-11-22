@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\bin\Release\DataLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\obj\Release\DataLayer.dll
+C:\Users\ADMIN\source\repos\BigBakeryPOS\BigMedical\DataLayer\obj\Release\DataLayer.pdb
+F:\Medley_Wh\BigMedical\DataLayer\bin\Release\DataLayer.dll
+F:\Medley_Wh\BigMedical\DataLayer\bin\Release\DataLayer.pdb
+F:\Medley_Wh\BigMedical\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+F:\Medley_Wh\BigMedical\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+F:\Medley_Wh\BigMedical\DataLayer\obj\Release\DataLayer.dll
+F:\Medley_Wh\BigMedical\DataLayer\obj\Release\DataLayer.pdb
+F:\Projects\BigMedical\DataLayer\bin\Release\DataLayer.dll
+F:\Projects\BigMedical\DataLayer\bin\Release\DataLayer.pdb
+F:\Projects\BigMedical\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+F:\Projects\BigMedical\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+F:\Projects\BigMedical\DataLayer\obj\Release\DataLayer.dll
+F:\Projects\BigMedical\DataLayer\obj\Release\DataLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\bin\Release\DataLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\bin\Release\DataLayer.pdb
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\obj\Release\DataLayer.dll
+F:\Working Projects\Medley_WM\Medley_WM\Medley_WM\Medley_WM\DataLayer\obj\Release\DataLayer.pdb
